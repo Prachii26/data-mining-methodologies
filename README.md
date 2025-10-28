@@ -3,7 +3,8 @@
 This repository demonstrates three complete data-mining workflows, each implemented on a Kaggle dataset.  
 Every project follows its respective methodology end-to-end — from data understanding to modeling, evaluation, and deployment.
 
-## 🔗 Medium Article link- https://medium.com/@prachigupta2610/a-comparative-analysis-of-semma-kdd-and-crisp-dm-frameworks-through-applied-data-mining-projects-a54d5d664ebd
+🔗**Medium Article link**-https://medium.com/@prachigupta2610/a-comparative-analysis-of-semma-kdd-and-crisp-dm-frameworks-through-applied-data-mining-projects-a54d5d664ebd
+
 ---
 
 ## 📂 Folder Structure
@@ -25,6 +26,8 @@ data-mining-methodologies/
 │   ├── data/                # Sleep health dataset
 │   ├── model/               # Random Forest + scaler files
 │   └── notebook/            # Colab notebook
+│
+├── VideoURL.txt
 │
 └── README.md                # This file
 ```
