@@ -4,9 +4,11 @@ This repository demonstrates three complete data-mining workflows, each implemen
 Every project follows its respective methodology end-to-end — from data understanding to modeling, evaluation, and deployment.
 
 🔗**Medium Article link**-https://medium.com/@prachigupta2610/a-comparative-analysis-of-semma-kdd-and-crisp-dm-frameworks-through-applied-data-mining-projects-a54d5d664ebd
-🔗**Demo Video link**- https://drive.google.com/file/d/10cbXbMH59ZEfhx35nejbSQJmwhR-d6wx/view?usp=sharing, 
+
+🔗**Demo Video link**-  https://drive.google.com/file/d/10cbXbMH59ZEfhx35nejbSQJmwhR-d6wx/view?usp=sharing, 
                         https://drive.google.com/file/d/1HWqWeRA5SieaoGdKeG2RJScYJLqHzzCF/view?usp=sharing,  
                         https://drive.google.com/file/d/1Kooj13mcDa04YDrzsJqXKVscp6aP3Cxb/view?usp=sharing
+
 ---
 
 ## 📂 Folder Structure
